@@ -1,0 +1,12 @@
+//* import configs styles
+@import './config/reset';
+@import './config/mixins';
+@import './config/basic-styles';
+
+//* import fonts
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;300;400;500;600;700&display=swap');
+//* use -> font-family: 'IBM Plex Mono', monospace;
+
+//* import componets' styles
+@import '../../components/footer/footer';
+@import '../../components/table/tableContainer';

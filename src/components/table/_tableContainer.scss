@@ -1,0 +1,25 @@
+.table-title {
+    @include defaultFontWhite;
+    font-size: 24px;
+    color: rgb(54, 19, 83);
+    margin-bottom: 20px;
+}
+
+.table-container {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+@media (max-width: 1470px) { 
+    .table-container {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
+@media (max-width: 900px) { 
+    .table-container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
