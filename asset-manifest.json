@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/Countries-table/static/css/main.a1ffb102.chunk.css",
+    "main.js": "/github.io/Countries-table/static/js/main.d05db655.chunk.js",
+    "main.js.map": "/github.io/Countries-table/static/js/main.d05db655.chunk.js.map",
+    "runtime-main.js": "/github.io/Countries-table/static/js/runtime-main.5d421759.js",
+    "runtime-main.js.map": "/github.io/Countries-table/static/js/runtime-main.5d421759.js.map",
+    "static/css/2.a95be28f.chunk.css": "/github.io/Countries-table/static/css/2.a95be28f.chunk.css",
+    "static/js/2.ccf39422.chunk.js": "/github.io/Countries-table/static/js/2.ccf39422.chunk.js",
+    "static/js/2.ccf39422.chunk.js.map": "/github.io/Countries-table/static/js/2.ccf39422.chunk.js.map",
+    "index.html": "/github.io/Countries-table/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/github.io/Countries-table/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.a1ffb102.chunk.css.map": "/github.io/Countries-table/static/css/main.a1ffb102.chunk.css.map",
+    "static/js/2.ccf39422.chunk.js.LICENSE.txt": "/github.io/Countries-table/static/js/2.ccf39422.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d421759.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.ccf39422.chunk.js",
+    "static/css/main.a1ffb102.chunk.css",
+    "static/js/main.d05db655.chunk.js"
+  ]
+}
